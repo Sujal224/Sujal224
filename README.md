@@ -8,6 +8,8 @@ I work at the intersection of design, frontend engineering, motion, 3D, and AI.
 -Contributed as the Frontend Dev and A.I Integrator on the Projects
 -MedIntel-A.I powered Medicine analyser and affordability provider.
 -CloudIQ-Multi Cloud learning platform with A.I Intelligence and real-time community
+
+
 -student at Arka Jain University
 
 Expertise In
