@@ -2,7 +2,7 @@
 
 Creative Developer focused on building premium UI/UX, AI-powered systems, and interactive digital experiences.
 
-## 🚀 About Me
+##  About Me
 
 I work at the intersection of design, frontend engineering, motion, 3D, and AI.
 -Contributed as the Frontend Dev and A.I Integrator on the Projects
@@ -52,6 +52,3 @@ Backend Development • API Handling • Database Management
 - RAG-based AI assistants
 - Creative motion websites
 
-## 📌 Motto
-
-Design it beautifully. Build it cleanly. Make it intelligent.
