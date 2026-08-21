@@ -1,9 +1,4 @@
-```markdown
 <div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       HERO SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <br>
 
@@ -11,25 +6,19 @@
 
 <br><br>
 
-# <strong>SUJAL CHANDRA</strong>
+<h1>⚡ SUJAL CHANDRA</h1>
 
-### <code>AI ENGINEER</code> · <code>CREATIVE DEVELOPER</code> · <code>UI/UX DESIGNER</code>
+<h3>
+AI ENGINEER&nbsp;&nbsp;·&nbsp;&nbsp;CREATIVE DEVELOPER&nbsp;&nbsp;·&nbsp;&nbsp;UI/UX DESIGNER
+</h3>
 
 <br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+intelligent+systems.;Designing+beautiful+interfaces.;Engineering+AI-powered+experiences.;Exploring+AI+%2B+Software+%2B+Design.;Turning+ideas+into+real+products."
-  alt="Typing Animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+intelligent+systems.;Designing+beautiful+interfaces.;Exploring+AI+%2B+Software+%2B+Design.;Turning+ideas+into+real+products." alt="Typing Animation">
 
 <br><br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=Sujal224&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
-
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=Sujal224&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
@@ -37,11 +26,9 @@
 
 <div align="center">
 
-# `01` — ABOUT ME
+## 🧠 ABOUT ME
 
 </div>
-
-<br>
 
 I'm **Sujal** — a creative developer and AI enthusiast working at the intersection of **AI, software engineering, design, and interactive experiences**.
 
@@ -53,39 +40,14 @@ I want to understand **why something should exist, how it should feel, and how i
 
 <table>
 <tr>
-<td>
-
-🎨 **UI/UX Designer**
-
-</td>
-<td>
-
-⚛️ **Frontend Developer**
-
-</td>
-<td>
-
-🤖 **AI Systems Explorer**
-
-</td>
+<td align="center">🎨<br><strong>UI/UX Designer</strong></td>
+<td align="center">⚛️<br><strong>Frontend Developer</strong></td>
+<td align="center">🤖<br><strong>AI Systems Explorer</strong></td>
 </tr>
-
 <tr>
-<td>
-
-🧩 **Creative Technologist**
-
-</td>
-<td>
-
-🧊 **3D & Interactive Explorer**
-
-</td>
-<td>
-
-🎓 **Computer Science Student**
-
-</td>
+<td align="center">🧩<br><strong>Creative Technologist</strong></td>
+<td align="center">🧊<br><strong>3D & Interactive Explorer</strong></td>
+<td align="center">🎓<br><strong>Computer Science Student</strong></td>
 </tr>
 </table>
 
@@ -93,44 +55,38 @@ I want to understand **why something should exist, how it should feel, and how i
 
 <div align="center">
 
-# `02` — WHAT I BUILD
+## 🚀 WHAT I BUILD
 
 </div>
-
-<br>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🤖 INTELLIGENT SYSTEMS
+### 🤖 Intelligent Systems
 
-<br>
-
-**AI Agents**  
-**Multi-Agent Systems**  
-**AI Orchestration**  
-**LLM Applications**  
-**Local AI**  
-**AI-powered Tools**  
-**Intelligent Automation**
+- AI Agents
+- Multi-Agent Systems
+- AI Orchestration
+- LLM Applications
+- Local AI
+- AI-powered Tools
+- Intelligent Automation
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎨 DIGITAL EXPERIENCES
+### 🎨 Digital Experiences
 
-<br>
-
-**Modern Web Applications**  
-**Premium UI/UX**  
-**Interactive Interfaces**  
-**AI Interfaces**  
-**Product Prototypes**  
-**Creative Developer Tools**  
-**Experimental Experiences**
+- Modern Web Applications
+- Premium UI/UX
+- Interactive Interfaces
+- AI Interfaces
+- Product Prototypes
+- Creative Developer Tools
+- Experimental Experiences
 
 </td>
 
@@ -141,31 +97,25 @@ I want to understand **why something should exist, how it should feel, and how i
 
 <div align="center">
 
-# `03` — TECH ARSENAL
+## ⚙️ TECH ARSENAL
 
-### LANGUAGES
+### 💻 LANGUAGES
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css">
 
 <br><br>
 
-### FRONTEND
+### ⚛️ FRONTEND
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,vue,flutter" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,vue,flutter">
 
 <br><br>
 
-### AI / MACHINE LEARNING
+### 🤖 AI / MACHINE LEARNING
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,pytorch">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-
-<br>
+<br><br>
 
 <code>LLMs</code>
 <code>AI Agents</code>
@@ -177,21 +127,17 @@ I want to understand **why something should exist, how it should feel, and how i
 
 <br><br>
 
-### BACKEND & TOOLS
+### 🧩 BACKEND & TOOLS
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,git,github,linux">
 
 <br><br>
 
-### DESIGN & CREATIVE
+### 🎨 DESIGN & CREATIVE
 
-<br>
+<img src="https://skillicons.dev/icons?i=figma,blender,unity">
 
-<img src="https://skillicons.dev/icons?i=figma,blender,unity" />
-
-<br>
+<br><br>
 
 <code>UI/UX</code>
 <code>Motion Design</code>
@@ -205,44 +151,53 @@ I want to understand **why something should exist, how it should feel, and how i
 
 <div align="center">
 
-# `04` — FEATURED PROJECTS
+## 🧪 FEATURED PROJECTS
 
 </div>
-
-<br>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-# 🧠 ORION
+<h2>🧠 Orion</h2>
 
-### Multi-Agent AI Platform
+<h3>Multi-Agent AI Platform</h3>
 
 An AI orchestration platform exploring **multi-agent collaboration, intelligent tool selection, model orchestration, and sandboxed execution**.
 
 <br>
 
-`AI` `LLMs` `LangChain` `LangGraph` `LlamaIndex`
+<code>AI</code>
+<code>LLMs</code>
+<code>LangChain</code>
+<code>LangGraph</code>
+<code>LlamaIndex</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-# ⚒️ FORGEX
+<h2>⚒️ ForgeX</h2>
 
-### AI Jobseeker Platform
+<h3>AI Jobseeker Platform</h3>
 
 A project-first hiring ecosystem built around:
 
-### **Build → Showcase → Improve → Apply → Get Hired**
+<br>
+
+<strong>Build → Showcase → Improve → Apply → Get Hired</strong>
+
+<br><br>
 
 Designed to combine AI assistance, project portfolios, resumes, ATS optimization, and job discovery.
 
-<br>
+<br><br>
 
-`AI` `React` `Automation` `Product Design`
+<code>AI</code>
+<code>React</code>
+<code>Automation</code>
+<code>Product Design</code>
 
 </td>
 
@@ -252,29 +207,35 @@ Designed to combine AI assistance, project portfolios, resumes, ATS optimization
 
 <td width="50%" valign="top">
 
-# ☁️ CLOUDIQ
+<h2>☁️ CloudIQ</h2>
 
-### Multi-Cloud Learning Platform
+<h3>Multi-Cloud Learning Platform</h3>
 
 A cloud learning platform exploring **AI intelligence, real-time community experiences, and modern learning workflows**.
 
 <br>
 
-`AI` `Cloud` `Web` `Real-Time`
+<code>AI</code>
+<code>Cloud</code>
+<code>Web</code>
+<code>Real-Time</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-# 🧬 MEDINTEL
+<h2>🧬 MedIntel</h2>
 
-### AI-Powered Medicine Intelligence
+<h3>AI-Powered Medicine Intelligence</h3>
 
-An AI-powered platform focused on **medicine analysis, affordability insights, and intelligent healthcare information**.
+An AI-powered platform focused on **medicine analysis, affordability, and intelligent healthcare information**.
 
 <br>
 
-`AI` `Python` `Data` `Intelligence`
+<code>AI</code>
+<code>Python</code>
+<code>Data</code>
+<code>Intelligence</code>
 
 </td>
 
@@ -285,25 +246,23 @@ An AI-powered platform focused on **medicine analysis, affordability insights, a
 
 <div align="center">
 
-# `05` — DEVELOPMENT PHILOSOPHY
+## 🎯 DEVELOPMENT PHILOSOPHY
 
-<br><br>
+<br>
 
-## BUILD
+### BUILD
 
-### ↓
+↓
 
-## BREAK
+### BREAK
 
-### ↓
+↓
 
-## UNDERSTAND
+### UNDERSTAND
 
-### ↓
+↓
 
-## REBUILD BETTER
-
-<br><br>
+### REBUILD BETTER
 
 </div>
 
@@ -322,11 +281,9 @@ I like taking an idea beyond tutorials and discovering:
 
 <div align="center">
 
-# `06` — CURRENTLY EXPLORING
+## 🌌 CURRENTLY EXPLORING
 
 </div>
-
-<br>
 
 ```yaml
 AI:
@@ -346,143 +303,3 @@ Development:
   - C
   - C++
   - Full Stack Architecture
-
-Creative:
-  - UI/UX
-  - Motion Design
-  - Blender
-  - 3D
-  - Digital Art
-  - Interactive Experiences
-```
-
----
-
-<div align="center">
-
-# `07` — GITHUB
-
-<br>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Sujal224&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=A78BFA&icon_color=8B5CF6&text_color=9CA3AF"
- />
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal224&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=9CA3AF"
- />
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=Sujal224&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280"
- />
-
-</div>
-
----
-
-<div align="center">
-
-# `08` — CONTRIBUTION JOURNEY
-
-<br>
-
-<img
-  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-# `09` — BEYOND CODE
-
-<br>
-
-<table>
-<tr>
-
-<td align="center">
-
-### 🎨
-
-**DIGITAL ART**
-
-</td>
-
-<td align="center">
-
-### 🧩
-
-**PRODUCT DESIGN**
-
-</td>
-
-<td align="center">
-
-### 🎬
-
-**MOTION**
-
-</td>
-
-<td align="center">
-
-### 🧊
-
-**3D**
-
-</td>
-
-<td align="center">
-
-### 🧠
-
-**AI**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<br>
-
-# BUILDING WHAT'S NEXT.
-
-### *One experiment at a time.*
-
-<br>
-
-<a href="https://github.com/Sujal224">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/sujal_can_draw/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br><br>
-
-<sub>© 2026 Sujal Chandra .</sub>
-
-<br><br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:312E81,100:8534F3"
-  width="100%"
-/>
-
-</div>
-```
