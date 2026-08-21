@@ -255,17 +255,32 @@ Then I build the next version.
 
 ---
 
-## GitHub
+---
+
+---
+
+
+## Contribution Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujal224&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=8B8B8B&rank_icon=github)](https://github.com/Sujal224)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal224&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=8B8B8B)](https://github.com/Sujal224)
-
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sujal224&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B8B8B&dates=666666)](https://github.com/Sujal224)
+**Building consistently. Learning continuously.**
+
+<br><br>
+
+`AI` &nbsp;·&nbsp; `Frontend` &nbsp;·&nbsp; `UI/UX` &nbsp;·&nbsp; `Creative Technology`
+
+<br><br>
+
+<a href="https://github.com/Sujal224">
+
+<img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-111111?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity">
+
+</a>
+
+<br><br>
 
 </div>
 
