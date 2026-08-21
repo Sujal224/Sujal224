@@ -16,10 +16,6 @@
 
 <br><br>
 
-<a href="https://github.com/Sujal224">
-<img src="https://komarev.com/ghpvc/?username=Sujal224&style=flat-square&color=555555&label=PROFILE+VIEWS" alt="Profile views">
-</a>
-
 </div>
 
 ---
