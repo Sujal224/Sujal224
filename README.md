@@ -253,28 +253,19 @@ Then I build the next version.
 
 ---
 
+---
+
 ## GitHub
 
 <div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Sujal224&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=8B8B8B&rank_icon=github"
-alt="GitHub statistics"
->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujal224&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=8B8B8B&rank_icon=github)](https://github.com/Sujal224)
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal224&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=8B8B8B"
-alt="Most used languages"
->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal224&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=8B8B8B)](https://github.com/Sujal224)
 
-<br><br>
+<br>
 
-<img
-src="https://streak-stats.demolab.com?user=Sujal224&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B8B8B&dates=666666"
-alt="GitHub contribution streak"
->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sujal224&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B8B8B&dates=666666)](https://github.com/Sujal224)
 
 </div>
 
@@ -284,15 +275,9 @@ alt="GitHub contribution streak"
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub contribution activity"
->
+![GitHub Contribution Activity](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
 ## Beyond Code
 
 <div align="center">
