@@ -1,11 +1,5 @@
 <div align="center">
 
-<br>
-
-<img src="./assets/copilot.gif" width="88" alt="Animated Copilot mascot">
-
-<br><br>
-
 # SUJAL CHANDRA
 
 ### AI ENGINEER  ·  CREATIVE DEVELOPER  ·  UI/UX DESIGNER
