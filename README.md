@@ -1,12 +1,19 @@
 <div align="center">
 
+<br><br>
+
 # SUJAL CHANDRA
 
-### AI ENGINEER  ·  CREATIVE DEVELOPER  ·  UI/UX DESIGNER
+### AI ENGINEER · CREATIVE DEVELOPER · UI/UX DESIGNER
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3200&pause=1000&color=8B8B8B&center=true&vCenter=true&width=720&lines=Building+intelligent+systems.;Designing+thoughtful+interfaces.;Engineering+AI-powered+experiences.;Exploring+the+intersection+of+AI%2C+software+%26+design." alt="Introduction">
+**Building intelligent systems.  
+Designing thoughtful experiences.**
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3800&pause=1400&color=888888&center=true&vCenter=true&width=650&lines=Artificial+intelligence.;Software+engineering.;Interface+design.;Creative+technology." alt="Focus">
 
 <br><br>
 
@@ -14,306 +21,208 @@
 
 ---
 
-## About
+<br>
 
-I'm **Sujal** — a creative developer and AI enthusiast working at the intersection of **AI, software engineering, design, and interactive experiences**.
+## 01 / ABOUT
 
-I care about more than making software work.
+I'm **Sujal** — a computer science student and creative developer exploring the intersection of **artificial intelligence, software engineering, and design**.
 
-I care about **why it should exist, how it should feel, and how people interact with it.**
+I build systems, interfaces, and experiments that sit somewhere between engineering and creativity.
+
+I care about the details that are easy to overlook:
+
+**how something works · how it communicates · how it feels**
 
 <br>
 
-| | |
-|---|---|
-| **◦ UI/UX** | Designing interfaces and digital experiences |
-| **◦ Frontend** | Building modern, interactive applications |
-| **◦ AI Systems** | Exploring agents, LLMs and intelligent workflows |
-| **◦ Creative Technology** | Combining design, code, motion and 3D |
-| **◦ Education** | Computer Science Student · Arka Jain University |
-
 ---
 
-## What I Build
+## 02 / WHAT I DO
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Intelligent Systems
+### AI
 
+Building and exploring intelligent software.
+
+<br>
+
+`LLMs`  
 `AI Agents`  
 `Multi-Agent Systems`  
 `AI Orchestration`  
-`LLM Applications`  
-`Local AI`  
-`AI-powered Tools`  
-`Intelligent Automation`
+`RAG`  
+`Tool Calling`  
+`Local AI`
 
 </td>
 
 <td width="50%" valign="top">
 
-### Digital Experiences
+### DESIGN
 
-`Web Applications`  
-`UI/UX Systems`  
-`Interactive Interfaces`  
-`AI Interfaces`  
-`Product Prototypes`  
-`Creative Developer Tools`  
-`Experimental Experiences`
+Creating interfaces that feel simple and intentional.
+
+<br>
+
+`UI/UX`  
+`Frontend`  
+`Interaction`  
+`Motion`  
+`Prototyping`  
+`Digital Art`  
+`3D`
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
 
-## Technology
+## 03 / TECHNOLOGY
 
-### Languages
+### ENGINEERING
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css" alt="Languages">
 
-### Frontend
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,vue,flutter" alt="Frontend technologies">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,vue,flutter" alt="Frontend">
 
-### AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI technologies">
-
-<br>
-
-`LLMs` · `AI Agents` · `RAG` · `Multi-Agent Systems` · `LangChain` · `LangGraph` · `LlamaIndex`
-
-### Backend & Infrastructure
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,git,github,linux" alt="Backend and infrastructure">
 
-### Design & Creative
+<br>
 
-<img src="https://skillicons.dev/icons?i=figma,blender,unity" alt="Design and creative tools">
+`React` · `Next.js` · `TypeScript` · `Python` · `FastAPI` · `Firebase`
+
+### INTELLIGENCE
+
+`PyTorch` · `LLMs` · `LangChain` · `LangGraph` · `LlamaIndex`  
+`AI Agents` · `RAG` · `Tool Calling` · `Multi-Agent Systems`
+
+### CREATIVE
+
+<img src="https://skillicons.dev/icons?i=figma,blender" alt="Creative tools">
 
 <br>
 
 `UI/UX` · `Motion Design` · `3D` · `Digital Art` · `Prototyping`
 
----
-
-## Selected Work
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Orion
-
-**Multi-Agent AI Platform**
-
-AI orchestration platform exploring multi-agent collaboration, intelligent tool selection, model orchestration and sandboxed execution.
-
 <br>
-
-`AI` `LLMs` `LangChain` `LangGraph` `LlamaIndex`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ForgeX
-
-**AI Jobseeker Platform**
-
-A project-first hiring ecosystem built around:
-
-**Build → Showcase → Improve → Apply → Get Hired**
-
-Designed around AI assistance, project portfolios, resumes, ATS optimization and job discovery.
-
-<br>
-
-`AI` `React` `Automation` `Product Design`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### CloudIQ
-
-**Multi-Cloud Learning Platform**
-
-A cloud learning platform exploring AI intelligence, real-time community experiences and modern learning workflows.
-
-<br>
-
-`AI` `Cloud` `Web` `Real-Time`
-
-</td>
-
-<td width="50%" valign="top">
-
-### MedIntel
-
-**AI-Powered Medicine Intelligence**
-
-An AI-powered platform focused on medicine analysis, affordability insights and intelligent healthcare information.
-
-<br>
-
-`AI` `Python` `Data` `Intelligence`
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-## Approach
-
-<div align="center">
-
-### BUILD  →  BREAK  →  UNDERSTAND  →  REBUILD
-
-</div>
-
-I believe the best way to learn technology is to **build with it**.
-
-I like taking ideas beyond tutorials and discovering:
-
-`why it works` · `why it breaks` · `how it scales` · `how it feels`
-
-Then I build the next version.
-
----
-
-## Currently Exploring
+## 04 / CURRENTLY EXPLORING
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### AI
+**AI**
 
-- Large Language Models
-- Local AI
-- AI Agents
-- Multi-Agent Orchestration
-- RAG
-- Tool Calling
-- AI Applications
+Large Language Models
 
-</td>
+Local AI
 
-<td width="33%" valign="top">
+AI Agents
 
-### Engineering
+Multi-Agent Systems
 
-- React
-- Next.js
-- TypeScript
-- Python
-- C
-- C++
-- Full Stack Architecture
+RAG
+
+Tool Calling
 
 </td>
 
 <td width="33%" valign="top">
 
-### Creative
+**ENGINEERING**
 
-- UI/UX
-- Motion Design
-- Blender
-- 3D
-- Digital Art
-- Interactive Experiences
+React
+
+Next.js
+
+TypeScript
+
+Python
+
+C / C++
+
+Full-Stack Systems
+
+</td>
+
+<td width="33%" valign="top">
+
+**CREATIVE**
+
+UI/UX
+
+Motion
+
+Blender
+
+3D
+
+Digital Art
+
+Interaction
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
 ---
 
----
+## 05 / BEYOND CODE
+
+I have been drawing since I was young.
+
+That interest eventually moved into **digital art, interface design, motion, and 3D** — and eventually into the way I build software.
+
+For me, these disciplines aren't separate.
+
+They're different ways of understanding the same thing:
+
+> **How humans perceive and interact with ideas.**
+
+<br>
 
 ---
-
-
-## Contribution Activity
 
 <div align="center">
 
 <br>
 
-**Building consistently. Learning continuously.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=12&duration=5000&pause=1800&color=666666&center=true&vCenter=true&width=500&lines=Observe.;Imagine.;Build.;Refine." alt="Closing statement">
 
-<br><br>
+<br><br><br>
 
-`AI` &nbsp;·&nbsp; `Frontend` &nbsp;·&nbsp; `UI/UX` &nbsp;·&nbsp; `Creative Technology`
+### INTELLIGENCE, DESIGNED.
 
 <br><br>
 
 <a href="https://github.com/Sujal224">
-
-<img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-111111?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity">
-
-</a>
-
-<br><br>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-![GitHub Contribution Activity](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-## Beyond Code
-
-<div align="center">
-
-`DIGITAL ART`  ·  `PRODUCT DESIGN`  ·  `MOTION`  ·  `3D`  ·  `INTERACTION`
-
-</div>
-
----
-
-<div align="center">
-
-<br>
-
-### Building technology where intelligence meets design.
-
-<br>
-
-<a href="https://github.com/Sujal224">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="GitHub">
 </a>
 
 &nbsp;
 
 <a href="https://www.instagram.com/sujal_can_draw/">
-<img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=flat-square&logo=instagram&logoColor=000000" alt="Instagram">
 </a>
 
 <br><br>
 
-<sub>© 2026 Sujal Chandra</sub>
+<sub>© 2026 SUJAL CHANDRA</sub>
 
 <br><br>
 
