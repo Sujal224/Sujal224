@@ -38,7 +38,7 @@
 ## `01 / ABOUT ME`
 
 ```yaml
-name: Sujal Chandra
+Name: Sujal Chandra
 role: AI Orchestrator | Creative Developer | UI/UX Designer
 education: BCA — Arka Jain University
 location: Jamshedpur, India
