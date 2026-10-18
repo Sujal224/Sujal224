@@ -1,32 +1,31 @@
-
 <div align="center">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=180&section=header&text=SUJAL%20CHANDRA&fontSize=38&fontAlignY=36&fontColor=ffffff&desc=AI%20ENGINEER%20%C2%B7%20CREATIVE%20DEVELOPER%20%C2%B7%20UI%2FUX%20DESIGNER&descFontSize=13&descAlignY=60&descAlign=50" width="100%" alt="Sujal Chandra — AI Engineer and Creative Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1A1A1A,50:555555,75:CCCCCC,100:FFFFFF&height=180&section=header&text=SUJAL%20CHANDRA&fontSize=38&fontAlignY=36&fontColor=FFFFFF&desc=AI%20ENGINEER%20%C2%B7%20CREATIVE%20DEVELOPER%20%C2%B7%20UI%2FUX%20DESIGNER&descFontSize=13&descAlignY=60&descAlign=50" width="100%" alt="Sujal Chandra — monochrome header" />
 
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Engineering+intelligent+systems+and+agentic+workflows.;Building+AI-powered+products+with+purpose.;Bridging+engineering%2C+design%2C+and+creativity.;No+expectations%2C+just+hard+work." alt="Profile tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=D1D5DB&center=true&vCenter=true&width=700&lines=Engineering+intelligent+systems+and+agentic+workflows.;Building+AI-powered+products+with+purpose.;Bridging+engineering%2C+design%2C+and+creativity.;Exploring+the+future+of+intelligent+technology." alt="Profile tagline" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Sujal224">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/sujal-chandra-1597b23b7">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/sujal_can_draw/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;
 <a href="mailto:sujalchandra202@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
@@ -39,197 +38,279 @@
 
 ```yaml
 Name: Sujal Chandra
-role: AI Orchestrator | Creative Developer | UI/UX Designer
-education: BCA — Arka Jain University
-location: Jamshedpur, India
+Role: AI Orchestrator | Creative Developer | UI/UX Designer
+Education: BCA — Arka Jain University
+Location: Jamshedpur, India
 
-interests:
+Interests:
   - Artificial Intelligence & Machine Learning
   - Multi-Agent Systems & AI Orchestration
   - Full-Stack & Frontend Engineering
   - UI/UX Design & Digital Experiences
   - Generative AI & Creative Technology
   - Digital Art & 3D Development
-
 ```
 
-I'm a Computer Science student and creative technologist passionate about building intelligent systems and thoughtfully designed digital experiences.
+I'm a computer science student passionate about building intelligent systems, thoughtful digital products, and interfaces that balance engineering with design.
 
-My work sits at the intersection of **AI engineering, software development, and visual design**. I enjoy exploring how autonomous agents, intelligent workflows, and well-crafted interfaces can come together to solve real problems.
+My work sits at the intersection of **AI engineering, software development, and digital creativity**. From orchestrating multi-agent workflows to designing polished user experiences, I enjoy turning ambitious ideas into functional products.
 
-I care about understanding the system beneath the interface, the architecture behind the product, and the details that make an experience feel right.
-
-- Building AI-powered applications and multi-agent workflows.
-- Designing and developing modern web and mobile interfaces.
-- Exploring AI orchestration, LLM integrations, and custom execution environments.
-- Experimenting with digital illustration, 3D tools, and interactive experiences.
-- Continuously learning, building, testing, and refining.
+I care about the craft, the architecture, and the details that make technology genuinely useful.
 
 ---
 
-## `02 / TECH STACK`
+## `02 / WHAT I DO`
 
-### AI & Intelligent Systems
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Artificial Intelligence
+
+- AI agent orchestration
+- Multi-agent architectures
+- LLM-powered applications
+- Retrieval-augmented generation
+- AI workflow automation
+- Local and cloud model integration
+
+</td>
+<td width="50%" valign="top">
+
+### Software Engineering
+
+- Frontend development
+- Full-stack applications
+- Responsive web interfaces
+- API integration and backend systems
+- Interactive application development
+- Problem solving and data structures
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### UI/UX & Product Design
+
+- Interface design
+- User experience design
+- Design systems
+- Interactive prototypes
+- Motion and micro-interactions
+- Minimal, premium visual design
+
+</td>
+<td width="50%" valign="top">
+
+### Creative Technology
+
+- Digital illustration
+- Blender and 3D exploration
+- Creative coding
+- Generative AI experiments
+- Visual storytelling
+- Experimental digital experiences
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03 / TECH STACK`
+
+### Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-202020?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
-
-**Areas:** Agent orchestration, multi-agent systems, LLM integration, AI application architecture, retrieval-augmented generation, model experimentation, and workflow automation.
 
 ### Frontend & Application Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
-### Backend & Infrastructure
+### AI & Agent Engineering
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Google_Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
-### UI/UX & Creative Tools
+### Backend, Data & Infrastructure
 
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
-<img src="https://img.shields.io/badge/Generative_Art-202020?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-**Design philosophy:** Minimal, purposeful, refined, and intuitive. I appreciate strong visual hierarchy, precise spacing, thoughtful motion, and interfaces that feel effortless rather than unnecessarily complicated.
+### Design & Creative Tools
+
+<p>
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Blender-000000?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+</p>
 
 ---
 
-## `03 / FEATURED PROJECTS`
+## `04 / FEATURED PROJECTS`
 
-### Orion — Multi-Agent Learning Platform
+### `ORION` — Multi-Agent AI Learning Platform
 
-An AI-powered learning platform built around multi-agent workflows and a custom sandbox environment.
+An AI-powered learning platform built around agent orchestration and a custom execution sandbox.
 
-- Explored intelligent agents and coordinated AI workflows.
+- Designed a multi-agent learning workflow.
+- Explored agent coordination and task execution.
 - Integrated LangChain, LlamaIndex, and LangGraph.
-- Focused on combining AI-driven assistance with an interactive learning experience.
-- **Achievement:** Runner-up in a hackathon.
+- Focused on interactive, intelligent learning experiences.
 
-### ForgeX — AI Jobseeker Platform
+**Recognition:** Runner-up in a hackathon.
 
-An AI-assisted job search and career preparation platform concept developed for a Kaggle hackathon.
+**Focus:** AI orchestration · Agentic workflows · Sandboxed execution
 
-- Job search workflow automation.
+---
+
+### `FORGEX` — AI-Powered Jobseeker Platform
+
+An AI-driven job application platform designed to streamline the jobseeking process.
+
 - Resume and CV generation.
-- ATS-oriented resume optimization.
-- AI-assisted career preparation.
+- Applicant tracking system (ATS) optimization.
+- AI-assisted job application workflows.
+- Automation-oriented jobseeker experience.
 
-### CloudIQ — Cloud & AI Exploration
-
-A project in my broader exploration of cloud-oriented systems and intelligent application architectures.
-
-### MedIntel — AI & Healthcare Exploration
-
-A project exploring the intersection of artificial intelligence and healthcare-oriented applications.
-
-### Alyra — Adaptive AI Companion
-
-An AI companion concept focused on personalization and a more natural, adaptive assistant experience.
-
-- Personalized interaction and contextual assistance.
-- Adaptive greetings and daily companion workflows.
-- Clean, premium interface design.
-- Exploring the separation of frontend architecture and backend intelligence.
-
-> Project descriptions summarize the concepts and work I've explored. Individual implementations, capabilities, and current development status may vary.
+**Focus:** Generative AI · Workflow automation · Career technology
 
 ---
 
-## `04 / WHAT I ENJOY BUILDING`
+### `CLOUDIQ` — Intelligent Cloud Solutions
 
-| Domain | Focus |
-|---|---|
-| AI Engineering | Intelligent applications, LLMs, agentic workflows |
-| AI Orchestration | Multi-agent coordination, tools, task execution |
-| Software Engineering | Frontend systems, backend APIs, application architecture |
-| UI/UX Design | Visual hierarchy, interaction design, design systems |
-| Creative Technology | 3D experimentation, digital illustration, generative experiences |
+An exploration of intelligent, cloud-oriented software and AI-assisted workflows.
+
+**Focus:** Cloud technology · AI integration · Software engineering
 
 ---
 
-## `05 / BEYOND THE CODE`
+### `MEDINTEL` — AI for Healthcare Intelligence
 
-Technology isn't my only creative outlet.
+A project exploring the intersection of artificial intelligence and healthcare-oriented information systems.
 
-- **Digital art:** Drawing and illustration, with an interest in expressive character art.
-- **3D & interactive media:** Exploring Blender, Unity, and immersive experiences.
-- **Design:** Studying the relationship between aesthetics, usability, and functionality.
-- **Anime & gaming:** A fan of One Piece, JoJo's Bizarre Adventure, Dragon Ball, Pokémon, and Genshin Impact.
-- **Learning:** Exploring new programming languages, frameworks, AI architectures, and creative tools.
-
-I enjoy both the logic that makes a system work and the creativity that makes people want to use it.
+**Focus:** AI applications · Information processing · Healthcare technology
 
 ---
 
-## `06 / CURRENT DIRECTION`
+<div align="center">
 
-My ongoing learning and development interests include:
+<a href="https://github.com/Sujal224?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
 
-- Building more capable AI agents and orchestration systems.
-- Strengthening Python, C++, data structures, and algorithms.
-- Developing full-stack applications with modern frontend frameworks and backend APIs.
-- Exploring Flutter and Dart for cross-platform application development.
-- Improving software architecture, performance, and maintainability.
-- Refining my UI/UX and digital art skills.
+</div>
 
-I'm interested in understanding systems deeply rather than simply collecting tools or frameworks.
+> Project descriptions summarize the concepts and technologies explored. Visit the individual repositories for implementation details and current project status.
 
 ---
 
-## `07 / GITHUB ACTIVITY`
+## `05 / GITHUB STATISTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sujal224&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=D1D1D1&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal224&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=D1D1D1&langs_count=8" alt="Most used programming languages" />
+
+<br><br>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal224&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D1D1D1&sideLabels=D1D1D1&dates=777777" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## `06 / BEYOND THE CODE`
+
+When I'm not building software, I'm exploring the creative side of technology.
+
+- **Digital Art:** Drawing, character illustration, and visual experimentation.
+- **3D & Interactive Worlds:** Exploring Blender and Unity.
+- **AI Research:** Experimenting with language models, agent architectures, and local inference.
+- **Design:** Studying minimalism, typography, interaction design, and polished digital products.
+- **Continuous Learning:** Strengthening my fundamentals in programming, algorithms, and system design.
+
+I believe technical depth and creative thinking make each other stronger.
+
+---
+
+## `07 / CURRENTLY EXPLORING`
+
+- Building more capable AI-powered applications.
+- Learning deeper agent orchestration patterns.
+- Improving full-stack architecture and engineering fundamentals.
+- Exploring advanced frontend interactions and motion design.
+- Developing a stronger foundation in data structures and algorithms.
+- Experimenting with local and cloud-based AI models.
+
+---
+
+## `08 / LET'S CONNECT`
+
+I'm always interested in meaningful conversations about AI, engineering, design, and ambitious ideas.
 
 <div align="center">
 
 <a href="https://github.com/Sujal224">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sujal224&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Sujal's GitHub statistics" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<a href="https://github.com/Sujal224">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal224&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+<a href="https://www.linkedin.com/in/sujal-chandra-1597b23b7">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Sujal224&hide_border=true&theme=transparent" alt="GitHub contribution streak" width="70%" />
+<a href="mailto:sujalchandra202@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.instagram.com/sujal_can_draw/">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=2&section=footer" width="100%" alt="" />
+</div>
+
+---
+
+<div align="center">
+
+### `BUILD. CREATE. ITERATE.`
+
+*Engineering intelligence. Designing experiences. Creating with purpose.*
 
 <br>
 
-**Building with curiosity. Engineering with intent. Designing with purpose.**
-
-<br>
-
-<sub>© Sujal Chandra · Built with code, creativity, and continuous learning.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1a1a1a,100:000000&height=100&section=footer" width="100%" alt="Monochrome footer" />
 
 </div>
