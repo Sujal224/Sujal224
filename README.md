@@ -1,13 +1,13 @@
-<div align="center">
+ <div align="center">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1A1A1A,50:555555,75:CCCCCC,100:FFFFFF&height=180&section=header&text=SUJAL%20CHANDRA&fontSize=38&fontAlignY=36&fontColor=FFFFFF&desc=AI%20ENGINEER%20%C2%B7%20CREATIVE%20DEVELOPER%20%C2%B7%20UI%2FUX%20DESIGNER&descFontSize=13&descAlignY=60&descAlign=50" width="100%" alt="Sujal Chandra — monochrome header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:000000&height=180&section=header&text=SUJAL%20CHANDRA&fontSize=38&fontAlignY=36&fontColor=ffffff&desc=CREATIVE%20DEVELOPER%20%C2%B7%20UI%2FUX%20DESIGNER&descFontSize=13&descAlignY=60&descAlign=50" width="100%" alt="Sujal Chandra — Creative Developer and UI/UX Designer" />
 
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=D1D5DB&center=true&vCenter=true&width=700&lines=Engineering+intelligent+systems+and+agentic+workflows.;Building+AI-powered+products+with+purpose.;Bridging+engineering%2C+design%2C+and+creativity.;Exploring+the+future+of+intelligent+technology." alt="Profile tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Engineering+intelligent+systems+and+agentic+workflows.;Building+AI-powered+products+with+purpose.;Bridging+engineering%2C+design%2C+and+creativity.;Exploring+the+future+of+intelligent+technology." alt="Profile tagline" />
 </a>
 
 <br><br>
@@ -148,18 +148,22 @@ I care about the craft, the architecture, and the details that make technology g
 ### AI & Agent Engineering
 
 <p>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" alt="Grok" />
+<img src="https://img.shields.io/badge/Qwen-000000?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen" />
+<img src="https://img.shields.io/badge/DeepSeek-000000?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
 <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
 <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Google_Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
 ### Backend, Data & Infrastructure
 
 <p>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -245,10 +249,6 @@ A project exploring the intersection of artificial intelligence and healthcare-o
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal224&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=D1D1D1&langs_count=8" alt="Most used programming languages" />
 
-<br><br>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal224&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D1D1D1&sideLabels=D1D1D1&dates=777777" alt="GitHub contribution streak" />
-
 </div>
 
 ---
@@ -305,12 +305,10 @@ I'm always interested in meaningful conversations about AI, engineering, design,
 
 <div align="center">
 
-### `BUILD. CREATE. ITERATE.`
-
 *Engineering intelligence. Designing experiences. Creating with purpose.*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1a1a1a,100:000000&height=100&section=footer" width="100%" alt="Monochrome footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,100:000000&height=100&section=footer" width="100%" alt="Monochrome footer" />
 
 </div>
